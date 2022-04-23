@@ -1,7 +1,7 @@
 Oi!!! Eu sou Mickaelly
 
 - 🌱 No momento estou aprendendo  as linguagens HTML e CSS
-- 👯 I’m estudante de T.I
+-  Eu sou estudante de T.I
 <div>
 <a href="https://github.com/Mickaellysilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mickaellysilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
