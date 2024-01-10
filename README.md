@@ -4,7 +4,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mickaellysilva&bg_color=000000&color=9e4c98&line=3602f2&point=ce22b7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Fraga GitHub stats](https://github-readme-stats.MickaellySilva.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+![Fraga GitHub stats](https://github-readme-stats.Mickaellysilva.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
 
 
 <div style="display: inline_block">
